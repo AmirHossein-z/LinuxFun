@@ -22,6 +22,3 @@ sudo unlink $MAIN_PHOTO
 
 # create a symbolink link for default_background...
 sudo ln -s /usr/share/backgrounds/linuxmint/$FILE_SELECTED /usr/share/backgrounds/linuxmint/default_background.jpg
-
-
-
