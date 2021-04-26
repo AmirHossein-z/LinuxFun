@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # this shell can use only for linux mint
-# but you can change path of directory and something else to work for your distro
 
 DIR_PHOTOS=/usr/share/backgrounds/linuxmint/
 MAIN_PHOTO=/usr/share/backgrounds/linuxmint/default_background.jpg
