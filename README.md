@@ -20,6 +20,11 @@ This script shows net usage for you since last hour
 
 - [@Amirhossein_Zareian](https://github.com/AmirHossein-z)
 
+## Contributing
+
+Contributions are always welcome!
+
+Please Pull request to see your recommendations.
 
 ## License
 
